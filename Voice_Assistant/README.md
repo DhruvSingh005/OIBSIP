@@ -1,40 +1,55 @@
-# Voice Assistant
+## Voice Assistant
 
-## Description
-A voice-controlled assistant built in Python that can handle various tasks such as telling the time, searching the web, sending emails, fetching weather updates, playing YouTube videos, and providing news headlines.
+## Project Description
+
+The Voice Assistant is a basic tool built with Python that responds to voice commands and performs simple tasks. It can greet users, tell the current time or date, and perform web searches based on voice input. This project focuses on creating a voice-controlled application that handles basic interactions using speech recognition and text-to-speech technologies.
 
 ## Features
-- Speech recognition and text-to-speech functionalities.
-- Sends emails using SMTP.
-- Fetches weather updates from OpenWeatherMap API.
-- Searches and plays YouTube videos.
-- Retrieves latest news headlines using NewsAPI.
-- Provides date information and public holidays.
 
-## API Keys/ConfigurationInstallation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
+Voice Commands: Responds to voice commands such as "Hello", "time", "date", "search", and "exit".
+Time and Date: Provides the current time and date when requested.
+Web Search: Performs web searches based on user queries.
+Text-to-Speech: Uses text-to-speech to respond to commands and provide feedback.
+Error Handling: Handles unrecognized commands and issues with voice recognition gracefully.
 
-## Install dependencies:
-pip install 
+## Technologies Used
 
+Python: Core programming language.
+SpeechRecognition: For recognizing and processing voice commands.
+pyttsx3: For converting text to speech.
+datetime: For retrieving current time and date.
+webbrowser: For performing web searches.
 
-## Usage
-Run the main Python script:
+## How to Run the Project
+Clone the repository to your local machine:
+
+git clone https://github.com/DhruvSingh005/OIBSIP.git
+
+## Navigate to the project directory:
+
+cd OIBSIP/Voice_Assistant
+
+## Install required dependencies:
+
+pip install SpeechRecognition pyttsx3
+
+## Run the script:
+
 python voice_assistant.py
-Follow the voice prompts to interact with the assistant.
 
-## API Keys/Configuration
-OpenWeatherMap API Key
-YouTube Data API Key
-NewsAPI Key
+## Usage Instructions
 
-Contributing
-Feel free to open issues or submit pull requests. Contributions are welcome!
+Greeting: Say "Hello" to receive a greeting from the assistant.
+Time: Say "time" to get the current time.
+Date: Say "date" to get today's date.
+Search: Say "search" followed by what you want to search to perform a web search.
+Exit: Say "exit" or "stop" to terminate the voice assistant.
 
-License
+## License
+
 This project is licensed under the MIT License.
 
-Contact
-For any questions, contact work.dhruvsingh05@gmail.com
+## Author
+
+Dhruv Singh 
+https://github.com/DhruvSingh005/OIBSIP
