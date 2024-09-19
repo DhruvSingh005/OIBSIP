@@ -15,7 +15,8 @@ BMI calculation and categorization
 Data storage and trend visualization
 Error handling
 
-# Technologies Used: Python, Tkinter, Matplotlib, JSON
+# Technologies Used: 
+Python, Tkinter, Matplotlib, JSON
 
 # Directory: BMI_Calculator
 
@@ -29,7 +30,8 @@ Weather data retrieval from API
 Basic weather information (temperature, humidity, conditions)
 Graphical interface with weather icons (advanced version)
 
-# Technologies Used: Python, Tkinter (advanced version), OpenWeatherMap API
+# Technologies Used: 
+Python, Tkinter (advanced version), OpenWeatherMap API
 
 # Directory: Weather_App
 
@@ -56,9 +58,30 @@ Text-to-speech for responses
 Web search capability
 Error handling
 
-# Technologies Used: Python, SpeechRecognition, pyttsx3, WebBrowser
+# Technologies Used: 
+Python, SpeechRecognition, pyttsx3, WebBrowser
+
 # Directory: Voice_Assistant
 
+## 5. Basic Chat Application
+
+Description: A basic text-based chat application using Python's socket programming. Includes both server and client files for real-time communication.
+
+# Features:
+
+Real-time messaging between clients
+Simple client-server architecture
+
+# Technologies Used:
+Python, Socket Programming, Threading
+
+# Directory: Chat_Application
+
+How to Run:
+
+Start the server: python server.py
+
+Run multiple clients: python client.py
 
 ## How to Run the Projects
 
