@@ -50,6 +50,7 @@ Obesity: BMI 30 and above
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/f716ca37-51d7-4bdd-b33d-47a730ac2325)
+
 ![image](https://github.com/user-attachments/assets/f7930271-eb2f-4429-af56-4cf4a92114c2)
 
 ## License
