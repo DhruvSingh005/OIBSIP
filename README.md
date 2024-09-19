@@ -6,7 +6,7 @@ Welcome to the repository for the Oasis Infobyte Internship Projects. This repos
 
 ## 1. Advanced BMI Calculator
 
-# Description: A graphical tool built with Python and Tkinter for calculating Body Mass Index (BMI) and categorizing it based on health ranges. The application also stores historical data and displays BMI trends.
+Description: A graphical tool built with Python and Tkinter for calculating Body Mass Index (BMI) and categorizing it based on health ranges. The application also stores historical data and displays BMI trends.
 
 # Features:
 
@@ -21,7 +21,7 @@ Error handling
 
 ## 2. Basic Weather App
 
-# Description: A weather application that provides current weather information based on user input. The advanced version includes a graphical user interface and additional weather details.
+Description: A weather application that provides current weather information based on user input. The advanced version includes a graphical user interface and additional weather details.
 
 # Features:
 
@@ -35,7 +35,7 @@ Graphical interface with weather icons (advanced version)
 
 ## 3. Basic Chat Application
 
-#Description: A basic text-based chat application using Python's socket programming. Includes both server and client files for real-time communication.
+Description: A basic text-based chat application using Python's socket programming. Includes both server and client files for real-time communication.
 
 # Features:
 
@@ -47,7 +47,7 @@ Technologies Used: Python, Socket Programming, Threading
 
 ## 4. Basic Voice Assistant
 
-# Description: A voice-controlled assistant that responds to simple commands, tells the time and date, performs web searches, and handles various interactions via voice recognition.
+Description: A voice-controlled assistant that responds to simple commands, tells the time and date, performs web searches, and handles various interactions via voice recognition.
 
 # Features:
 
